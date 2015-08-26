@@ -12,8 +12,9 @@
     2. Main.cpp program
       - The main function of implementing BinaryTree using BinaryTree library described above
     
-    3. A processing v.3 program
-      - Processing is an opensource programing environment for grafic programing
+    3. BinaryTree.pde
+      - A processing (v.3) program
+      - Processing is an opensource programing environment for graffic programing
       - Can be downloaded from Processing.org
  
 -------------------------------------------------------------------------------------------------
