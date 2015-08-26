@@ -224,7 +224,12 @@ void    BinaryTree :: Destroy_Tree(Node* _Node) {
     }
 }
 void    BinaryTree :: Balance_Tree(Node* _Node) {
-
+	/* 
+	   --> https://en.wikipedia.org/wiki/Day-Stout-Warren_algorithm
+	   --> http://stackoverflow.com/questions/14001676/balancing-a-bst
+	   1. Using right-rotation operations, turn tree into linked list (vine)
+	   2. Rotate every second node of the backbone about its parent to turn the backbone into a perfectly balanced BST. 
+	*/
 }
 void    BinaryTree :: Print_Tree_To_File(Node* _Node, char* _File_Name) {
 	ofstream File;
