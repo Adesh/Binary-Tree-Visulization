@@ -18,13 +18,13 @@
 -------------------------------------------------------------------------------------------------
 
 --- How to run it?:
-  METHOD 1: (for pro)
+  METHOD 1 (for pro):
     0. Keep all files in Same Directory (with Write Aceess) (Main.cpp, BinaryTree.h, BinaryTree.cpp, BinaryTree.pde)
     1. Download Processing (I used v.3) from processing.org (if needed Java - explained on processing site)
     2. Compile CPP files (Main.cpp, BinaryTree.h, BinaryTree.cpp) and run Main.cpp
     3. Open and Run BinaryTree.pde in processing
     
-  METHOD 2: (for Binary Tree learner)
+  METHOD 2 (for Binary Tree learner):
     1. Download BinaryTreeGUI.exe (needs Java) & BinaryTreeCPP.exe
     2. Download and run either RunBinaryTree.bat (if on Windows) and RunBinaryTree.sh (if on Linux)
 
