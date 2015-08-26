@@ -32,7 +32,7 @@
     
   METHOD 2 (for Binary Tree learner):
     
-    1. Download BinaryTreeGUI.exe (needs Java) & BinaryTreeCPP.exe
+    1. Download BinaryTreeGUI.exe (needs Java) & BinaryTreeCPP.exe (keep all in same directory)
     
     2. Download and run either RunBinaryTree.bat (if on Windows) and RunBinaryTree.sh (if on Linux)
 
