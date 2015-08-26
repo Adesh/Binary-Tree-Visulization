@@ -1,7 +1,7 @@
 # Binary-Tree-Visulization
 
 ---------------------------------------------------------------------------------------------------------------------------
-*** The program has following parts:
+---> The program has following parts:
     1. BinaryTree Library
        - A complete implementation of BinaryTree and operations on it
        - Can also be used alone for any application
@@ -15,7 +15,7 @@
       - Can be downloaded from Processing.org
       
 ---------------------------------------------------------------------------------------------------------------------------
-*** How to run it?:
+---> How to run it?:
   METHOD 1: (for pro)
     0. Keep all files in Same Directory (with Write Aceess) (Main.cpp, BinaryTree.h, BinaryTree.cpp, BinaryTree.pde)
     1. Download Processing (I used v.3) from processing.org (if needed Java - explained on processing site)
@@ -25,7 +25,7 @@
   METHOD 2: (for Binary Tree learner)
     1. Download BinaryTreeGUI.exe (needs Java) & BinaryTreeCPP.exe
     2. Download and run either RunBinaryTree.bat (if on Windows) and RunBinaryTree.sh (if on Linux)
----------------------------------------------------------------------------------------------------------------------------  *** BinaryTree Library -> class BinaryTree -> Public Methods:  
+---------------------------------------------------------------------------------------------------------------------------  ---> BinaryTree Library -> class BinaryTree -> Public Methods:  
     void    Insert_Node(int);
     void    Delete_Node(int);
     int 	  Node_Count();
@@ -42,5 +42,4 @@
 Author:   Adesh Shah
 
 No copyright! Be kind to give credtis!
-
 If you do something intersting with this and if I may contribute -> find me on Facebook! 
